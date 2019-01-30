@@ -1,0 +1,19 @@
+{
+  "name": "ember",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edpuzino/ember.git"
+  },
+  "author": "Ed Puzino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edpuzino/ember/issues"
+  },
+  "homepage": "https://github.com/edpuzino/ember#readme"
+}
